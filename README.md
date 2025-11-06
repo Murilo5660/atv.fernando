@@ -14,4 +14,4 @@ Criar repositório no GitHub, adicionar um arquivo de código e documentar os pa
    - "git add meu_codigo.py"
    - "git commit -m "Primeira commit"
    - "git push -u origin main"
-5. Dificuldades: (FOI HORRÍVEL, mas consegui fazer apezar do nervosismo."Não sabia que tinha que baixar o Git; Criei varios repositórios/pastas e apaguei, pois não estavam funcionando")
+5. Dificuldades: Nenhuma!
