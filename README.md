@@ -1,5 +1,3 @@
-Aluno: Murilo Ferreira S.  N°26 1°A Téc.ADS 
-Professor: Fernando 
 # Documentação do repositório
 1. Ele apenas printa " Hello Wolrd! "
 
@@ -14,4 +12,6 @@ Criar repositório no GitHub, adicionar um arquivo de código e documentar os pa
    - "git add meu_codigo.py"
    - "git commit -m "Primeira commit"
    - "git push -u origin main"
-5. Dificuldades: Nenhuma!
+
+##Dificuldades
+1. Não sabia que tinha que baixar o Git :)
